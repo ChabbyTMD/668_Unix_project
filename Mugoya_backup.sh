@@ -20,7 +20,7 @@
 
 #  Note: you can use the $HOME variable in bash like this $HOME/BACKUP_FILES
 
-if [ -d "~/BACKUP_FILES"]
+if [ -d "~/BACKUP_FILES" ]
 then
     echo "Directory $HOME/BACKUP_FILES exists."
 else
